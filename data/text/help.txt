@@ -1,0 +1,37 @@
+NOTE: [DATE] will be in [DD][MM][YY] format
+(eg. 20th Jan 2023 will be written as 200123)
+
+---SPLIT---
+
+TERMS OF REFERENCE:
+/tor - gives you the places where the bot takes information from
+/escort - help for escort
+/ae - edit weapon controller sheet
+
+PARADE STATE / DUTY COMMANDS:
+/f [DATE (optional)] - generates the parade state
+/we [START DATE (optional)] [END DATE (optional)] - generates the duty crew
+/df [START DATE] [END DATE] - generates duty forecast
+
+OVERRIDE STATUS COMMANDS:
+(for things like MC)
+/ol - shows override list
+/oe - edit override list
+
+RATIONS:
+/rl - shows rations list
+/re - edit rations list
+
+PERSONNEL:
+/pl - shows personnel list
+/pe - edit personnel files
+
+STATUSES:
+/sl - shows status list
+/se - edit status list
+
+ADMIN COMMANDS:
+/cos - set COS name as shown in parade state
+(unique to each individual user)
+/status - shows when database was last updated
+/update - updates the database

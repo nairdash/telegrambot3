@@ -1,0 +1,218 @@
+{
+ "NIL": {
+  "displayStatus": "NIL",
+  "category": "PRESENT"
+ },
+ "SB": {
+  "displayStatus": "NIL",
+  "category": "PRESENT"
+ },
+ "ROUTE FAM": {
+  "displayStatus": "NIL",
+  "category": "PRESENT"
+ },
+ "CTL": {
+  "displayStatus": "NIL",
+  "category": "PRESENT"
+ },
+ "CQF": {
+  "displayStatus": "NIL",
+  "category": "PRESENT"
+ },
+ "CTL\/CQF": {
+  "displayStatus": "NIL",
+  "category": "PRESENT"
+ },
+ "IPPT": {
+  "displayStatus": "NIL",
+  "category": "PRESENT"
+ },
+ "MISSILE TRANSFER": {
+  "displayStatus": "NIL",
+  "category": "PRESENT"
+ },
+ "COC": {
+  "displayStatus": "NIL",
+  "category": "PRESENT"
+ },
+ "AI": {
+  "displayStatus": "AI",
+  "category": "PRESENT"
+ },
+ "CAMP": {
+  "displayStatus": "NIL",
+  "category": "PRESENT"
+ },
+ "X": {
+  "displayStatus": "NIL",
+  "category": "DYME"
+ },
+ "SITE VCOMM": {
+  "displayStatus": "NIL",
+  "category": "DYME"
+ },
+ "OFF": {
+  "displayStatus": "NIL",
+  "category": "OFF"
+ },
+ "OIL": {
+  "displayStatus": "NIL",
+  "category": "OFF"
+ },
+ "\\": {
+  "displayStatus": "NIL",
+  "category": "C\/O"
+ },
+ "SP": {
+  "displayStatus": "SP",
+  "category": "O\/S"
+ },
+ "HFD": {
+  "displayStatus": "HFD",
+  "category": "O\/S"
+ },
+ "H": {
+  "displayStatus": "H",
+  "category": "O\/S"
+ },
+ "R": {
+  "displayStatus": "R",
+  "category": "O\/S"
+ },
+ "U\/S": {
+  "displayStatus": "U\/S",
+  "category": "O\/S"
+ },
+ "SITE ESCORT": {
+  "displayStatus": "ESCORT",
+  "category": "O\/S"
+ },
+ "RSAF55": {
+  "displayStatus": "RSAF55",
+  "category": "O\/S"
+ },
+ "DSO TRAINING": {
+  "displayStatus": "DSO TRAINING",
+  "category": "O\/S"
+ },
+ "NDP": {
+  "displayStatus": "NDP",
+  "category": "O\/S"
+ },
+ "IMT": {
+  "displayStatus": "IMT",
+  "category": "O\/S"
+ },
+ "ATP IMT": {
+  "displayStatus": "ATP IMT",
+  "category": "O\/S"
+ },
+ "ATP": {
+  "displayStatus": "ATP",
+  "category": "O\/S"
+ },
+ "CS": {
+  "displayStatus": "CS",
+  "category": "O\/S"
+ },
+ "ME": {
+  "displayStatus": "ME",
+  "category": "O\/S"
+ },
+ "O\/S ME": {
+  "displayStatus": "ME",
+  "category": "O\/S"
+ },
+ "202 SQN AUDIT": {
+  "displayStatus": "202 SQN AUDIT",
+  "category": "O\/S"
+ },
+ "SITE FAM": {
+  "displayStatus": "SITE FAM",
+  "category": "O\/S"
+ },
+ "CONVOY": {
+  "displayStatus": "CONVOY",
+  "category": "O\/S"
+ },
+ "CS IMT": {
+  "displayStatus": "CS IMT",
+  "category": "O\/S"
+ },
+ "GTT": {
+  "displayStatus": "GTT",
+  "category": "O\/S"
+ },
+ "SIC": {
+  "displayStatus": "SIC",
+  "category": "CSE"
+ },
+ "RIGGER": {
+  "displayStatus": "RIGGER",
+  "category": "CSE"
+ },
+ "GWT": {
+  "displayStatus": "GWT",
+  "category": "CSE"
+ },
+ "OEMP": {
+  "displayStatus": "OEMP",
+  "category": "CSE"
+ },
+ "CMD": {
+  "displayStatus": "CMD",
+  "category": "CSE"
+ },
+ "RDPC": {
+  "displayStatus": "RDPC",
+  "category": "CSE"
+ },
+ "OSL": {
+  "displayStatus": "NIL",
+  "category": "OSL"
+ },
+ "LL": {
+  "displayStatus": "NIL",
+  "category": "LL"
+ },
+ "MA": {
+  "displayStatus": "NIL",
+  "category": "MA"
+ },
+ "MC": {
+  "displayStatus": "NIL",
+  "category": "MC"
+ },
+ "RSO": {
+  "displayStatus": "NIL",
+  "category": "RSO"
+ },
+ "CCL": {
+  "displayStatus": "NIL",
+  "category": "CCL"
+ },
+ "PCL": {
+  "displayStatus": "NIL",
+  "category": "PCL"
+ },
+ "HL": {
+  "displayStatus": "NIL",
+  "category": "HL"
+ },
+ "UL": {
+  "displayStatus": "NIL",
+  "category": "UL"
+ },
+ "CL": {
+  "displayStatus": "NIL",
+  "category": "CL"
+ },
+ "FFI": {
+  "displayStatus": "NIL",
+  "category": "FFI"
+ },
+ "UNKNOWN": {
+  "displayStatus": "NIL",
+  "category": "UNKNOWN"
+ }
+}

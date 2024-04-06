@@ -1,0 +1,290 @@
+[
+ {
+  "rank": "CPT",
+  "displayName": "NATHANIEL WONG",
+  "sheetName": "NATHANIEL WONG",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 12,
+  "displayNoStatus": "CPT NATHANIEL WONG"
+ },
+ {
+  "rank": "CPT",
+  "displayName": "JIA YING",
+  "sheetName": "JIA YING",
+  "commSec": "JIAYING",
+  "nor": "REGULAR",
+  "rankINT": 11,
+  "displayNoStatus": "CPT JIA YING"
+ },
+ {
+  "rank": "CPT",
+  "displayName": "LAURA",
+  "sheetName": "LAURA",
+  "commSec": "LAURA",
+  "nor": "REGULAR",
+  "rankINT": 11,
+  "displayNoStatus": "CPT LAURA"
+ },
+ {
+  "rank": "CPT",
+  "displayName": "JENEVIEVE",
+  "sheetName": "JEN",
+  "commSec": "JENEVIEVE",
+  "nor": "REGULAR",
+  "rankINT": 11,
+  "displayNoStatus": "CPT JENEVIEVE"
+ },
+ {
+  "rank": "CPT",
+  "displayName": "NAVEEN",
+  "sheetName": "NAVEEN",
+  "commSec": "NAVEEN",
+  "nor": "REGULAR",
+  "rankINT": 11,
+  "displayNoStatus": "CPT NAVEEN"
+ },
+ {
+  "rank": "CPT",
+  "displayName": "ROY",
+  "sheetName": "ROY",
+  "commSec": "ROY",
+  "nor": "REGULAR",
+  "rankINT": 11,
+  "displayNoStatus": "CPT ROY"
+ },
+ {
+  "rank": "LTA",
+  "displayName": "ELLESTER",
+  "sheetName": "ELLESTER",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 10,
+  "displayNoStatus": "LTA ELLESTER"
+ },
+ {
+  "rank": "LTA",
+  "displayName": "THEOPHILUS",
+  "sheetName": "THEOPHILUS",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 10,
+  "displayNoStatus": "LTA THEOPHILUS"
+ },
+ {
+  "rank": "2LT",
+  "displayName": "JUN YI",
+  "sheetName": "JUN YI",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 9,
+  "displayNoStatus": "2LT JUN YI"
+ },
+ {
+  "rank": "2LT",
+  "displayName": "JAMES",
+  "sheetName": "JAMES",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 9,
+  "displayNoStatus": "2LT JAMES"
+ },
+ {
+  "rank": "2LT",
+  "displayName": "ISAAC",
+  "sheetName": "ISAAC",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 9,
+  "displayNoStatus": "2LT ISAAC"
+ },
+ {
+  "rank": "2WO",
+  "displayName": "DEVARAJ",
+  "sheetName": "(SUP) DEVARAJ",
+  "commSec": "DEVARAJ",
+  "nor": "REGULAR",
+  "rankINT": 7,
+  "displayNoStatus": "2WO DEVARAJ"
+ },
+ {
+  "rank": "3WO",
+  "displayName": "PRAVEAN",
+  "sheetName": "(SUP) PRAVEAN",
+  "commSec": "PRAVEAN",
+  "nor": "REGULAR",
+  "rankINT": 6,
+  "displayNoStatus": "3WO PRAVEAN"
+ },
+ {
+  "rank": "3WO",
+  "displayName": "LEONARD",
+  "sheetName": "(SUP) LEONARD LOW",
+  "commSec": "LEONARD",
+  "nor": "REGULAR",
+  "rankINT": 6,
+  "displayNoStatus": "3WO LEONARD"
+ },
+ {
+  "rank": "MSG",
+  "displayName": "IVAN CHEN",
+  "sheetName": "(SUP) IVAN CHEN",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 5,
+  "displayNoStatus": "MSG IVAN CHEN"
+ },
+ {
+  "rank": "MSG",
+  "displayName": "BRYAN YON",
+  "sheetName": "(CRANE) BRYAN YON",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 5,
+  "displayNoStatus": "MSG BRYAN YON"
+ },
+ {
+  "rank": "SSG",
+  "displayName": "JIAN HONG",
+  "sheetName": "(SUP) JIAN HONG",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 4,
+  "displayNoStatus": "SSG JIAN HONG"
+ },
+ {
+  "rank": "SSG",
+  "displayName": "QI XIAN",
+  "sheetName": "(CRANE) QI XIAN",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 4,
+  "displayNoStatus": "SSG QI XIAN"
+ },
+ {
+  "rank": "1SG",
+  "displayName": "BRYAN CHUA",
+  "sheetName": "(CRANE) BRYAN CHUA",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 3,
+  "displayNoStatus": "1SG BRYAN CHUA"
+ },
+ {
+  "rank": "1SG",
+  "displayName": "NICHOLAS",
+  "sheetName": "(CRANE) NICHOLAS",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 3,
+  "displayNoStatus": "1SG NICHOLAS"
+ },
+ {
+  "rank": "2SG",
+  "displayName": "NISHAN",
+  "sheetName": "(RIGG) NISHAN",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 2,
+  "displayNoStatus": "2SG NISHAN"
+ },
+ {
+  "rank": "3SG",
+  "displayName": "EACHEON",
+  "sheetName": "(RIGG) EACHEON",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 1,
+  "displayNoStatus": "3SG EACHEON"
+ },
+ {
+  "rank": "3SG",
+  "displayName": "DARREN",
+  "sheetName": "(RIGG) DARREN",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 1,
+  "displayNoStatus": "3SG DARREN"
+ },
+ {
+  "rank": "3SG",
+  "displayName": "XI QUAN",
+  "sheetName": "XI QUAN",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 1,
+  "displayNoStatus": "3SG XI QUAN"
+ },
+ {
+  "rank": "3SG",
+  "displayName": "JING XIANG",
+  "sheetName": "JING XIANG",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 1,
+  "displayNoStatus": "3SG JING XIANG"
+ },
+ {
+  "rank": "3SG",
+  "displayName": "NICHOLAS EE",
+  "sheetName": "NICHOLAS EE",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 1,
+  "displayNoStatus": "3SG NICHOLAS EE"
+ },
+ {
+  "rank": "3SG",
+  "displayName": "ZACHARY SIEK",
+  "sheetName": "ZACHARY SIEK",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 1,
+  "displayNoStatus": "3SG ZACHARY SIEK"
+ },
+ {
+  "rank": "3SG",
+  "displayName": "ZHI JIE",
+  "sheetName": "ZHI JIE",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 1,
+  "displayNoStatus": "3SG ZHI JIE"
+ },
+ {
+    "rank": "3SG",
+    "displayName": "YEO HENG",
+    "sheetName": "YEO HENG",
+    "commSec": "NIL",
+    "nor": "NSF",
+    "rankINT": 1,
+    "displayNoStatus": "3SG YEO HENG"
+   },
+   {
+    "rank": "3SG",
+    "displayName": "TING XUAN",
+    "sheetName": "TING XUAN",
+    "commSec": "NIL",
+    "nor": "NSF",
+    "rankINT": 1,
+    "displayNoStatus": "3SG TING XUAN"
+   },
+   {
+    "rank": "3SG",
+    "displayName": "YU JING",
+    "sheetName": "YU JING",
+    "commSec": "NIL",
+    "nor": "NSF",
+    "rankINT": 1,
+    "displayNoStatus": "3SG YU JING"
+   },
+   {
+    "rank": "3SG",
+    "displayName": "LE KEN",
+    "sheetName": "LE KEN",
+    "commSec": "NIL",
+    "nor": "NSF",
+    "rankINT": 1,
+    "displayNoStatus": "3SG LE KEN"
+   }
+]

@@ -1,0 +1,22 @@
+<<< ESCORT TIPS >>>
+
+COMMONLY USED BLOCKS:
+BLK 33 - SHIKRA PLL
+BLK 35 - FUCP
+BLK 35B - POL Point
+BLK 36 - Torch PLL
+BLK 37 - Fire Pump House
+BLK 38 - Substation
+BLK 39 - FP
+BLK 40 - DMS
+
+ESCORT KEYS:
+NCR server rooms FUCP/FP - OSC
+Block 38 (Substation) - OSC
+Room inside FUCP beside fire alarm panel - Key 11 (FUCP keypress)
+CCTV room - Key 12 (FUCP keypress)
+POL point - Key 19 (FUCP keypress)
+Cabinet A/B (FUCP) - Key 23 (FUCP keypress)
+CCTV rack in CCTV room - Cabinet B (FUCP)
+Block 37 (Water pump) - Cabinet A (FUCP)
+Block 33 (SHIKRA PLL) - Key 44 & 45 (FUCP keypress)
