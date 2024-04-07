@@ -99,13 +99,13 @@
   "displayNoStatus": "2LT ISAAC"
  },
  {
-  "rank": "2WO",
+  "rank": "3WO",
   "displayName": "DEVARAJ",
   "sheetName": "(SUP) DEVARAJ",
   "commSec": "DEVARAJ",
   "nor": "REGULAR",
-  "rankINT": 7,
-  "displayNoStatus": "2WO DEVARAJ"
+  "rankINT": 6,
+  "displayNoStatus": "3WO DEVARAJ"
  },
  {
   "rank": "3WO",
