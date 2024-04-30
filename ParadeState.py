@@ -546,7 +546,6 @@ class DataManager:
         f'ADSS: {self.bottomCategorised["standbyPersonnel"][1]}\n' \
         f'ADWS: {self.bottomCategorised["standbyPersonnel"][2]}\n\n' \
         f'G1: {self.bottomCategorised["weaponControllers"][0]}\n' \
-        f'G2: {self.bottomCategorised["weaponControllers"][1]}\n' \
         f'G3A: {self.bottomCategorised["weaponControllers"][2]}'
     
     def FullPS(self, date):
