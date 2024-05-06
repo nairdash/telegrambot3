@@ -249,7 +249,7 @@ class Person:
             bottomCategorised['siteVcomm'] = self.displayNoStatus
 
     def __CategoriseFull(self, categorisedPersonnel, bottomCategorised):
-        if self.flight == 'bravo':
+        if self.flight == 'alpha':
             categorisedPersonnel[self.status.category].append(self)
         
         self.__CategoriseBottom(bottomCategorised)
@@ -493,7 +493,7 @@ class DataManager:
     def __psTop(self):
         psStr = f'Good Day ALPHA, below is the Forecasted Parade State for {self.dateRAW}.\n\n' \
                 f'COS: {self.cos}\n\n' \
-                f'TOTAL STRENGTH ({len([x for x in self.personnel if x.flight == "bravo"])})\n\n'
+                f'TOTAL STRENGTH ({len([x for x in self.personnel if x.flight == "alpha"])})\n\n'
         
         for category in self.categorisedPersonnel:
             if category != 'UNKNOWN':
