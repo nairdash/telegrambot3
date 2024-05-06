@@ -315,7 +315,7 @@ class DataManager:
             self.categorisedPersonnel[category] = []
         
         if self.ref['username'].get(str(chatID)):
-            self.cos = self.ref['username']['cos']
+            self.cos = self.ref['username'][str(chatID)]['cos']
         else:
             self.cos = ''
     
