@@ -493,6 +493,7 @@ class DataManager:
     def __psTop(self):
         psStr = f'Good Day ALPHA, below is the Forecasted Parade State for {self.dateRAW}.\n\n' \
                 f'COS: {self.cos}\n\n' \
+                f'COS ID: {chatID}\n\n'\
                 f'TOTAL STRENGTH ({len([x for x in self.personnel if x.flight == "alpha"])})\n\n'
         
         for category in self.categorisedPersonnel:
