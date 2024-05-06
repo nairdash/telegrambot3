@@ -315,7 +315,7 @@ class DataManager:
             self.categorisedPersonnel[category] = []
         
         if self.ref['username'].get(str(chatID)):
-            self.cos = self.ref['username'][str(chatID)]['cos']
+            self.cos = self.ref['username']['cos']
         else:
             self.cos = ''
     
@@ -493,7 +493,6 @@ class DataManager:
     def __psTop(self):
         psStr = f'Good Day ALPHA, below is the Forecasted Parade State for {self.dateRAW}.\n\n' \
                 f'COS: {self.cos}\n\n' \
-                print(str(chatID))
                 f'TOTAL STRENGTH ({len([x for x in self.personnel if x.flight == "alpha"])})\n\n'
         
         for category in self.categorisedPersonnel:
