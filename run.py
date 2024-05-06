@@ -409,6 +409,7 @@ async def UpdateAll(update, context):
     await context.bot.edit_message_text('Updating... 100% Done', chatID, messageID)
     await Scheduled.EveryMonth(context)
     await context.bot.edit_message_text(Functions.StatusListCategoriser(), chatID, messageID)
+    print(chatID)
 
 async def Broadcast_FIRST(update, context):
     chatID = update.effective_chat.id
