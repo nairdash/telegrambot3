@@ -93,7 +93,7 @@ async def Weekend(update, context):
 
 async def DutyForecast(update, context):
     chatID = update.effective_chat.id
-    startDateDT, endDateDT = DateChecker.DoubleDate(context.args, 31, False, False)
+    startDateDT, endDateDT = DateChecker.DoubleDate(context.args, 30, False, False)
 
     if startDateDT == 'tooFar':
         await context.bot.send_message(chatID, 'Dates are too far apart')
