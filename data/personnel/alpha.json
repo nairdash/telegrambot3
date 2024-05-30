@@ -10,12 +10,12 @@
  },
  {
   "rank": "CPT",
-  "displayName": "MARC",
-  "sheetName": "MARC",
-  "commSec": "MARC",
+  "displayName": "JIA YING",
+  "sheetName": "JIA YING",
+  "commSec": "JIA YING",
   "nor": "REGULAR",
   "rankINT": 11,
-  "displayNoStatus": "CPT MARC"
+  "displayNoStatus": "CPT JIA YING"
  },
  {
   "rank": "CPT",
@@ -119,13 +119,13 @@
   "displayNoStatus": "3WO HUA ZONG"
  },
  {
-  "rank": "3WO",
-  "displayName": "YI HAO",
-  "sheetName": "(SUP) YI HAO",
+  "rank": "MSG",
+  "displayName": "YEW SENG",
+  "sheetName": "(SUP) YEW SENG",
   "commSec": "NIL",
   "nor": "REGULAR",
   "rankINT": 6,
-  "displayNoStatus": "3WO YI HAO"
+  "displayNoStatus": "MSG YEW SENG"
  },
  {
   "rank": "MSG",
@@ -155,15 +155,6 @@
   "displayNoStatus": "SSG SUREN"
  },
  {
-    "rank": "1SG",
-    "displayName": "MALCOLM CHOW",
-    "sheetName": "(CRANE) MALCOLM CHOW",
-    "commSec": "NIL",
-    "nor": "REGULAR",
-    "rankINT": 3,
-    "displayNoStatus": "1SG MALCOLM CHOW"
-   },
- {
   "rank": "1SG",
   "displayName": "HE QUN",
   "sheetName": "(CRANE) HE QUN",
@@ -189,6 +180,15 @@
   "nor": "REGULAR",
   "rankINT": 1,
   "displayNoStatus": "3SG BRAYDEN"
+ },
+{
+  "rank": "3SG",
+  "displayName": "EACHEON",
+  "sheetName": "(RIGG) EACHEON",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 1,
+  "displayNoStatus": "3SG EACHEON"
  },
  {
   "rank": "3SG",
