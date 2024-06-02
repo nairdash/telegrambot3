@@ -119,6 +119,15 @@
   "displayNoStatus": "3WO HUA ZONG"
  },
  {
+  "rank": "3WO",
+  "displayName": "YI HAO",
+  "sheetName": "(SUP) YI HAO",
+  "commSec": "YI HAO",
+  "nor": "REGULAR",
+  "rankINT": 6,
+  "displayNoStatus": "3WO YI HAO"
+ },
+ {
   "rank": "MSG",
   "displayName": "YEW SENG",
   "sheetName": "(SUP) YEW SENG",
@@ -210,8 +219,8 @@
  },
  {
   "rank": "3SG",
-  "displayName": "KAI LUCAS ANTON",
-  "sheetName": "KAI LUCAS",
+  "displayName": "KAI ANTON",
+  "sheetName": "KAI ANTON",
   "commSec": "NIL",
   "nor": "NSF",
   "rankINT": 1,
