@@ -155,7 +155,7 @@
  {
   "rank": "SSG",
   "displayName": "SUREN",
-  "sheetName": "(RIGG) SURENDREN",
+  "sheetName": "(CRANE) SURENDREN",
   "commSec": "NIL",
   "nor": "REGULAR",
   "rankINT": 4,
@@ -256,8 +256,8 @@
   "displayName": "DERRILL",
   "sheetName": "DERRILL",
   "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 0,
+  "nor": "NSF",
+  "rankINT": 1,
   "displayNoStatus": "3SG DERRILL"
  },
  {
