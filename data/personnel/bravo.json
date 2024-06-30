@@ -1,6 +1,6 @@
 [
  {
-  "rank": "CPT",
+  "rank": "MAJ",
   "displayName": "NATHANIEL WONG",
   "sheetName": "NATHANIEL WONG",
   "commSec": "NIL",
@@ -72,6 +72,15 @@
   "displayNoStatus": "LTA THEOPHILUS"
  },
  {
+  "rank": "LTA",
+  "displayName": "ISAAC",
+  "sheetName": "ISAAC",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 10,
+  "displayNoStatus": "LTA ISAAC"
+ },
+ {
   "rank": "2LT",
   "displayName": "JUN YI",
   "sheetName": "JUN YI",
@@ -90,22 +99,13 @@
   "displayNoStatus": "2LT JAMES"
  },
  {
-  "rank": "2LT",
-  "displayName": "ISAAC",
-  "sheetName": "ISAAC",
-  "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 9,
-  "displayNoStatus": "2LT ISAAC"
- },
- {
-  "rank": "3WO",
+  "rank": "2WO",
   "displayName": "DEVARAJ",
   "sheetName": "(SUP) DEVARAJ",
   "commSec": "DEVARAJ",
   "nor": "REGULAR",
-  "rankINT": 6,
-  "displayNoStatus": "3WO DEVARAJ"
+  "rankINT": 7,
+  "displayNoStatus": "2WO DEVARAJ"
  },
  {
   "rank": "3WO",
@@ -126,13 +126,13 @@
   "displayNoStatus": "3WO LEONARD"
  },
  {
-  "rank": "MSG",
+  "rank": "3WO",
   "displayName": "IVAN CHEN",
   "sheetName": "(SUP) IVAN CHEN",
   "commSec": "NIL",
   "nor": "REGULAR",
   "rankINT": 5,
-  "displayNoStatus": "MSG IVAN CHEN"
+  "displayNoStatus": "3WO IVAN CHEN"
  },
  {
   "rank": "MSG",
@@ -144,13 +144,13 @@
   "displayNoStatus": "MSG BRYAN YON"
  },
  {
-  "rank": "SSG",
+  "rank": "MSG",
   "displayName": "JIAN HONG",
   "sheetName": "(SUP) JIAN HONG",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 4,
-  "displayNoStatus": "SSG JIAN HONG"
+  "rankINT": 5,
+  "displayNoStatus": "MSG JIAN HONG"
  },
  {
   "rank": "SSG",
@@ -162,13 +162,13 @@
   "displayNoStatus": "SSG QI XIAN"
  },
  {
-  "rank": "1SG",
+  "rank": "SSG",
   "displayName": "BRYAN CHUA",
   "sheetName": "(CRANE) BRYAN CHUA",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 3,
-  "displayNoStatus": "1SG BRYAN CHUA"
+  "rankINT": 4,
+  "displayNoStatus": "SSG BRYAN CHUA"
  },
  {
   "rank": "1SG",
