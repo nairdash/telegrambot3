@@ -45,13 +45,13 @@
   "displayNoStatus": "LTA JOVAN"
  },
  {
-  "rank": "2LT",
+  "rank": "LTA",
   "displayName": "LEON",
   "sheetName": "LEON",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 9,
-  "displayNoStatus": "2LT LEON"
+  "rankINT": 10,
+  "displayNoStatus": "LTA LEON"
  },
  {
   "rank": "2LT",
@@ -116,6 +116,15 @@
   "rankINT": 6,
   "displayNoStatus": "3WO HUA ZONG"
  },
+  {
+  "rank": "3WO",
+  "displayName": "MANFRED",
+  "sheetName": "(SUP) MANFRED ONG",
+  "commSec": "MANFRED",
+  "nor": "REGULAR",
+  "rankINT": 6,
+  "displayNoStatus": "3WO MANFRED"
+ },
 {
   "rank": "MSG",
   "displayName": "YEW SENG",
@@ -124,15 +133,6 @@
   "nor": "REGULAR",
   "rankINT": 5,
   "displayNoStatus": "MSG YEW SENG"
- },
- {
-  "rank": "MSG",
-  "displayName": "MANFRED",
-  "sheetName": "(SUP) MANFRED ONG",
-  "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 5,
-  "displayNoStatus": "MSG MANFRED"
  },
  {
   "rank": "MSG",
@@ -153,13 +153,13 @@
   "displayNoStatus": "SSG SUREN"
  },
  {
-  "rank": "1SG",
+  "rank": "SSG",
   "displayName": "HE QUN",
   "sheetName": "(CRANE) HE QUN",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 3,
-  "displayNoStatus": "1SG HE QUN"
+  "rankINT": 4,
+  "displayNoStatus": "SSG HE QUN"
  },
  {
   "rank": "1SG",
