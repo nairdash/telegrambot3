@@ -180,13 +180,13 @@
   "displayNoStatus": "1SG NICHOLAS"
  },
  {
-  "rank": "2SG",
+  "rank": "1SG",
   "displayName": "NISHAN",
   "sheetName": "(RIGG) NISHAN",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 2,
-  "displayNoStatus": "2SG NISHAN"
+  "rankINT": 3,
+  "displayNoStatus": "1SG NISHAN"
  },
  {
   "rank": "3SG",
