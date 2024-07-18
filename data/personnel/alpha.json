@@ -35,12 +35,21 @@
   "rankINT": 11,
   "displayNoStatus": "CPT WEI JIAN"
  },
+{
+  "rank": "LTA",
+  "displayName": "BAO YUAN",
+  "sheetName": "BAO YUAN",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 10,
+  "displayNoStatus": "LTA BAO YUAN"
+ },
  {
   "rank": "LTA",
   "displayName": "JOVAN",
   "sheetName": "JOVAN",
   "commSec": "NIL",
-  "nor": "NSF",
+  "nor": "REGULAR",
   "rankINT": 10,
   "displayNoStatus": "LTA JOVAN"
  },
