@@ -259,14 +259,5 @@
   "nor": "NSF",
   "rankINT": 1,
   "displayNoStatus": "3SG DERRILL"
- },
- {
-  "rank": "3SG",
-  "displayName": "NOAH",
-  "sheetName": "NOAH",
-  "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 0,
-  "displayNoStatus": "3SG NOAH LAM"
  }
 ]
