@@ -153,22 +153,22 @@
   "displayNoStatus": "SSG BELLAMY"
  },
  {
-  "rank": "SSG",
+  "rank": "MSG",
   "displayName": "FREDERICK",
   "sheetName": "(SUP) FREDERICK",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 4,
-  "displayNoStatus": "SSG FREDERICK"
+  "rankINT": 5,
+  "displayNoStatus": "MSG FREDERICK"
  },
  {
-  "rank": "1SG",
+  "rank": "SSG",
   "displayName": "VINCZE",
   "sheetName": "(CRANE) VINCZE",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 3,
-  "displayNoStatus": "1SG VINCZE"
+  "rankINT": 4,
+  "displayNoStatus": "SSG VINCZE"
  },
  {
   "rank": "2SG",
