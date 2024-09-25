@@ -46,15 +46,6 @@
  },
  {
   "rank": "LTA",
-  "displayName": "JOVAN",
-  "sheetName": "JOVAN",
-  "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 10,
-  "displayNoStatus": "LTA JOVAN"
- },
- {
-  "rank": "LTA",
   "displayName": "LEON",
   "sheetName": "LEON",
   "commSec": "NIL",
@@ -97,6 +88,51 @@
   "nor": "NSF",
   "rankINT": 9,
   "displayNoStatus": "2LT YEN KIT"
+ },
+ {
+  "rank": "2LT",
+  "displayName": "ZHAO LONG",
+  "sheetName": "ZHAO LONG",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 9,
+  "displayNoStatus": "2LT ZHAO LONG"
+ },
+ {
+  "rank": "2LT",
+  "displayName": "KAI WEN",
+  "sheetName": "KAI WEN",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 9,
+  "displayNoStatus": "2LT KAI WEN"
+ },
+  {
+  "rank": "2LT",
+  "displayName": "ETHAN LEE",
+  "sheetName": "ETHAN LEE",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 9,
+  "displayNoStatus": "2LT ETHAN LEE"
+ },
+  {
+  "rank": "2LT",
+  "displayName": "LUCAS",
+  "sheetName": "LUCAS",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 9,
+  "displayNoStatus": "2LT LUCAS"
+ },
+  {
+  "rank": "2LT",
+  "displayName": "MARVIN",
+  "sheetName": "MARVIN",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 9,
+  "displayNoStatus": "2LT MARVIN"
  },
  {
   "rank": "2WO",
