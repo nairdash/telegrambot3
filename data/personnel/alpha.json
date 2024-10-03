@@ -54,40 +54,40 @@
   "displayNoStatus": "LTA LEON"
  },
  {
-  "rank": "2LT",
+  "rank": "LTA",
   "displayName": "RICHMOND",
   "sheetName": "RICHMOND",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 9,
-  "displayNoStatus": "2LT RICHMOND"
+  "rankINT": 10,
+  "displayNoStatus": "LTA RICHMOND"
  },
 {
-  "rank": "2LT",
+  "rank": "LTA",
   "displayName": "AIDAN",
   "sheetName": "AIDAN",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 9,
-  "displayNoStatus": "2LT AIDAN"
+  "rankINT": 10,
+  "displayNoStatus": "LTA AIDAN"
  },
  {
-  "rank": "2LT",
+  "rank": "LTA",
   "displayName": "GUAN LIN",
   "sheetName": "GUAN LIN",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 9,
-  "displayNoStatus": "2LT GUAN LIN"
+  "rankINT": 10,
+  "displayNoStatus": "LTA GUAN LIN"
  },
  {
-  "rank": "2LT",
+  "rank": "LTA",
   "displayName": "YEN KIT",
   "sheetName": "YEN KIT",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 9,
-  "displayNoStatus": "2LT YEN KIT"
+  "rankINT": 10,
+  "displayNoStatus": "LTA YEN KIT"
  },
  {
   "rank": "2LT",
