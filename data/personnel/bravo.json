@@ -64,15 +64,6 @@
  },
  {
   "rank": "LTA",
-  "displayName": "THEOPHILUS",
-  "sheetName": "THEOPHILUS",
-  "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 10,
-  "displayNoStatus": "LTA THEOPHILUS"
- },
- {
-  "rank": "LTA",
   "displayName": "ISAAC",
   "sheetName": "ISAAC",
   "commSec": "NIL",
@@ -81,22 +72,22 @@
   "displayNoStatus": "LTA ISAAC"
  },
  {
-  "rank": "2LT",
+  "rank": "LTA",
   "displayName": "JUN YI",
   "sheetName": "JUN YI",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 9,
-  "displayNoStatus": "2LT JUN YI"
+  "rankINT": 10,
+  "displayNoStatus": "LTA JUN YI"
  },
  {
-  "rank": "2LT",
+  "rank": "LTA",
   "displayName": "JAMES",
   "sheetName": "JAMES",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 9,
-  "displayNoStatus": "2LT JAMES"
+  "rankINT": 10,
+  "displayNoStatus": "LTA JAMES"
  },
  {
   "rank": "2WO",
