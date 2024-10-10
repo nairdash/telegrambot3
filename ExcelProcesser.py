@@ -177,14 +177,14 @@ def ObtainDutyForecastExcel(startDateDT, endDateDT):
 
     for currentDateRAW, beforeDateRAW, values in dataManager.CombinedDutyForecast(startDateDT, endDateDT):
         dutyME = pd.DataFrame({
-            '0' : ['OSC', 'SSM', 'PRI LM', 'SEC LM', '', 'DLS', 'TRANSPORT OPERATOR', 'SITE VCOMM'],
+            '0' : ['OSC', 'SSM', 'LM ADSS', 'DLS', 'LM ADWS 1', 'LM ADWS 2', 'TRANSPORT OPERATOR', 'SITE VCOMM'],
             '1' : [
                 values['dutyPersonnel'][0],
                 values['dutyPersonnel'][1],
-                values['dutyPersonnel'][4],
                 values['dutyPersonnel'][2],
-                values['dutyPersonnel'][5],
                 values['dutyPersonnel'][3],
+                values['dutyPersonnel'][4],
+                values['dutyPersonnel'][5],
                 '',
                 values['siteVcomm']
             ]
