@@ -72,13 +72,13 @@
   "displayNoStatus": "LTA JUN YI"
  },
  {
-  "rank": "LTA",
-  "displayName": "JAMES",
-  "sheetName": "JAMES",
+  "rank": "2LT",
+  "displayName": "LEUVEN",
+  "sheetName": "LEUVEN",
   "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 10,
-  "displayNoStatus": "LTA JAMES"
+  "nor": "REGULAR",
+  "rankINT": 9,
+  "displayNoStatus": "2LT LEUVEN"
  },
  {
   "rank": "2WO",
