@@ -548,7 +548,7 @@ class DataManager:
         f'ADWS: {self.bottomCategorised["dutyPersonnel"][5]}\n\n' \
         f'SITE VCOMM: {self.bottomCategorised["siteVcomm"]}\n\n' \
         f'[STANDBY CREW FOR {self.dateRAW}]\n' \
-        f'CONVOY CMD: {self.bottomCategorised["standbyPersonnel"][0]}\n' \
+        f'AWO: {self.bottomCategorised["standbyPersonnel"][0]}\n' \
         f'ADSS: {self.bottomCategorised["standbyPersonnel"][1]}\n' \
         f'ADWS: {self.bottomCategorised["standbyPersonnel"][2]}\n\n' \
         f'G1: {self.bottomCategorised["weaponControllers"][0]}\n' \
