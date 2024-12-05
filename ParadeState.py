@@ -172,11 +172,8 @@ class Status:
         else:
             if self.sheetStatus == 'X':
                 self.duty = True
-            if self.sheetStatus == 'OSC SB':
-                self.standby = True
             if self.sheetStatus == 'SB':
                 self.standby = True
-            
 
     def LoadFullStatus(self):
         dominantStatus = None
@@ -207,8 +204,6 @@ class Status:
         else:
             if self.sheetStatus == 'X':
                 self.duty = True
-            if self.sheetStatus == 'OSC SB':
-                self.standby = True
             if self.sheetStatus == 'SB':
                 self.standby = True
             
@@ -419,7 +414,7 @@ class DataManager:
         self.bottomCategorised['dutyPersonnel'] = sorted(self.bottomCategorised['dutyPersonnel'], key=lambda x: x.rankINT, reverse=True)
         self.bottomCategorised['standbyPersonnel'] = sorted(self.bottomCategorised['standbyPersonnel'], key=lambda x: x.rankINT, reverse=True)
 
-        rankRef = {"duty": [[9, 12], [4, 9], [1, 9], [1, 9], [1, 3], [1, 3]], "standby": [[9, 12], [9, 12], [1, 9], [1, 3]]}
+        rankRef = {"duty": [[9, 12], [4, 9], [1, 9], [1, 9], [1, 3], [1, 3]], "standby": [[9, 12], [1, 9], [1, 3]]}
 
         dutyPersonnelNew = ['UNKNOWN' for x in range(6)]
         dutyOpenSlots = [x for x in range(6)]
@@ -547,10 +542,9 @@ class DataManager:
         f'ADWS: {self.bottomCategorised["dutyPersonnel"][5]}\n\n' \
         f'SITE VCOMM: {self.bottomCategorised["siteVcomm"]}\n\n' \
         f'[STANDBY CREW FOR {self.dateRAW}]\n' \
-        f'OSC: {self.bottomCategorised["standbyPersonnel"][0]}\n' \
-        f'CONVOY CMD: {self.bottomCategorised["standbyPersonnel"][1]}\n' \
-        f'ADSS: {self.bottomCategorised["standbyPersonnel"][2]}\n' \
-        f'ADWS: {self.bottomCategorised["standbyPersonnel"][3]}\n\n' \
+        f'CONVOY CMD: {self.bottomCategorised["standbyPersonnel"][0]}\n' \
+        f'ADSS: {self.bottomCategorised["standbyPersonnel"][1]}\n' \
+        f'ADWS: {self.bottomCategorised["standbyPersonnel"][2]}\n\n' \
         f'G1: {self.bottomCategorised["weaponControllers"][0]}\n' \
         f'G3A: {self.bottomCategorised["weaponControllers"][2]}'
     
