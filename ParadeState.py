@@ -206,7 +206,9 @@ class Status:
                 self.duty = True
             if self.sheetStatus == 'SB':
                 self.standby = True
-            
+            if self.sheetStatus == 'OSC SB':
+                self.standby = True
+                
             dominantStatus = self.sheetStatus
         
         # if   --- dominantStatus in definite_status.json - displayStatus and category are set
