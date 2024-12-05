@@ -174,6 +174,8 @@ class Status:
                 self.duty = True
             if self.sheetStatus == 'SB':
                 self.standby = True
+            if self.sheetStatus == 'OSC SB':
+                self.standby = True
 
     def LoadFullStatus(self):
         dominantStatus = None
