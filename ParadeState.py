@@ -420,7 +420,7 @@ class DataManager:
         self.bottomCategorised['dutyPersonnel'] = sorted(self.bottomCategorised['dutyPersonnel'], key=lambda x: x.rankINT, reverse=True)
         self.bottomCategorised['standbyPersonnel'] = sorted(self.bottomCategorised['standbyPersonnel'], key=lambda x: x.rankINT, reverse=True)
 
-        rankRef = {"duty": [[9, 12], [4, 9], [1, 9], [1, 9], [1, 3], [1, 3]], "standby": [[9, 12], [1, 9], [1, 3]]}
+        rankRef = {"duty": [[9, 12], [4, 9], [1, 9], [1, 9], [1, 3], [1, 3]], "standby": [[9, 12],[9,12], [1, 9], [1, 3]]}
 
         dutyPersonnelNew = ['UNKNOWN' for x in range(6)]
         dutyOpenSlots = [x for x in range(6)]
