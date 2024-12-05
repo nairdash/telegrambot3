@@ -55,30 +55,66 @@
  },
  {
   "rank": "LTA",
-  "displayName": "ISAAC",
-  "sheetName": "ISAAC",
+  "displayName": "RYAN",
+  "sheetName": "RYAN",
   "commSec": "NIL",
-  "nor": "NSF",
+  "nor": "REGULAR",
   "rankINT": 10,
-  "displayNoStatus": "LTA ISAAC"
+  "displayNoStatus": "LTA RYAN"
  },
  {
-  "rank": "LTA",
-  "displayName": "JUN YI",
-  "sheetName": "JUN YI",
+  "rank": "2LT",
+  "displayName": "JULIAN",
+  "sheetName": "JULIAN",
   "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 10,
-  "displayNoStatus": "LTA JUN YI"
+  "nor": "REGULAR",
+  "rankINT": 9,
+  "displayNoStatus": "2LT JULIAN"
  },
  {
   "rank": "2LT",
   "displayName": "LEUVEN",
   "sheetName": "LEUVEN",
   "commSec": "NIL",
-  "nor": "REGULAR",
+  "nor": "NSF",
   "rankINT": 9,
   "displayNoStatus": "2LT LEUVEN"
+ },
+ {
+  "rank": "2LT",
+  "displayName": "ZACKER",
+  "sheetName": "ZACKER",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 9,
+  "displayNoStatus": "2LT ZACKER"
+ },
+ {
+  "rank": "2LT",
+  "displayName": "NERO",
+  "sheetName": "NERO",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 9,
+  "displayNoStatus": "2LT NERO"
+ },
+ {
+  "rank": "2LT",
+  "displayName": "ETHAN MAAN",
+  "sheetName": "ETHAN MAAN",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 9,
+  "displayNoStatus": "2LT ETHAN MAAN"
+ },
+ {
+  "rank": "2LT",
+  "displayName": "CHIN WAI",
+  "sheetName": "CHIN WAI",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 9,
+  "displayNoStatus": "2LT CHIN WAI"
  },
  {
   "rank": "2WO",
