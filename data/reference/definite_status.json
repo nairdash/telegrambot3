@@ -11,6 +11,10 @@
   "displayStatus": "NIL",
   "category": "PRESENT"
  },
+ "IFDT": {
+  "displayStatus": "NIL",
+  "category": "PRESENT"
+ }, 
  "ROUTE FAM": {
   "displayStatus": "NIL",
   "category": "PRESENT"
