@@ -10,24 +10,6 @@
  },
  {
   "rank": "CPT",
-  "displayName": "LAURA",
-  "sheetName": "LAURA",
-  "commSec": "LAURA",
-  "nor": "REGULAR",
-  "rankINT": 11,
-  "displayNoStatus": "CPT LAURA"
- },
- {
-  "rank": "CPT",
-  "displayName": "JENEVIEVE",
-  "sheetName": "JEN",
-  "commSec": "JENEVIEVE",
-  "nor": "REGULAR",
-  "rankINT": 11,
-  "displayNoStatus": "CPT JENEVIEVE"
- },
- {
-  "rank": "CPT",
   "displayName": "NAVEEN",
   "sheetName": "NAVEEN",
   "commSec": "NAVEEN",
@@ -45,13 +27,13 @@
   "displayNoStatus": "CPT ROY"
  },
  {
-  "rank": "LTA",
+  "rank": "CPT",
   "displayName": "ELLESTER",
   "sheetName": "ELLESTER",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 10,
-  "displayNoStatus": "LTA ELLESTER"
+  "rankINT": 11,
+  "displayNoStatus": "CPT ELLESTER"
  },
  {
   "rank": "LTA",
@@ -208,39 +190,12 @@
  },
  {
   "rank": "3SG",
-  "displayName": "EACHEON",
-  "sheetName": "(RIGG) EACHEON",
-  "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 1,
-  "displayNoStatus": "3SG EACHEON"
- },
- {
-  "rank": "3SG",
   "displayName": "DARREN",
   "sheetName": "(RIGG) DARREN",
   "commSec": "NIL",
   "nor": "REGULAR",
   "rankINT": 1,
   "displayNoStatus": "3SG DARREN"
- },
- {
-  "rank": "3SG",
-  "displayName": "XI QUAN",
-  "sheetName": "XI QUAN",
-  "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 1,
-  "displayNoStatus": "3SG XI QUAN"
- },
- {
-  "rank": "3SG",
-  "displayName": "JING XIANG",
-  "sheetName": "JING XIANG",
-  "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 1,
-  "displayNoStatus": "3SG JING XIANG"
  },
  {
   "rank": "3SG",
