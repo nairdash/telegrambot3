@@ -80,6 +80,15 @@
   "rankINT": 6,
   "displayNoStatus": "3WO CHEOK"
  },
+{
+  "rank": "3WO",
+  "displayName": "ADRIAN CHAI",
+  "sheetName": "ADRIAN CHAI",
+  "commSec": "ADRIAN CHAI",
+  "nor": "REGULAR",
+  "rankINT": 6,
+  "displayNoStatus": "3WO ADRIAN CHAI"
+ },
  {
   "rank": "3WO",
   "displayName": "WENG YEW",
@@ -116,6 +125,15 @@
   "rankINT": 6,
   "displayNoStatus": "3WO LUIS HUANG"
  },
+{
+  "rank": "3WO",
+  "displayName": "YI HAO",
+  "sheetName": "(SUP) YI HAO",
+  "commSec": "YI HAO",
+  "nor": "REGULAR",
+  "rankINT": 6,
+  "displayNoStatus": "3WO YI HAO"
+ },
  {
   "rank": "3WO",
   "displayName": "RONG PO",
@@ -133,15 +151,6 @@
   "nor": "REGULAR",
   "rankINT": 6,
   "displayNoStatus": "3WO ZHENG YUAN"
- },
- {
-  "rank": "MSG",
-  "displayName": "YEW SENG",
-  "sheetName": "(SUP) YEW SENG",
-  "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 5,
-  "displayNoStatus": "MSG YEW SENG"
  },
  {
   "rank": "SSG",
@@ -169,6 +178,15 @@
   "nor": "REGULAR",
   "rankINT": 4,
   "displayNoStatus": "SSG VINCZE"
+ },
+{
+  "rank": "SSG",
+  "displayName": "MALCOLM CHOW",
+  "sheetName": "(CRANE) MALCOLM CHOW",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 4,
+  "displayNoStatus": "SSG MALCOLM CHOW"
  },
  {
   "rank": "2SG",
