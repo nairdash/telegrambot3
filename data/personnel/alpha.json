@@ -225,22 +225,22 @@
   "displayNoStatus": "3SG KAI LUCAS ANTON"
  },
  {
-  "rank": "3SG",
+  "rank": "2SG",
   "displayName": "CHARLES",
   "sheetName": "CHARLES",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 1,
-  "displayNoStatus": "3SG CHARLES"
+  "rankINT": 2,
+  "displayNoStatus": "2SG CHARLES"
  },
  {
-  "rank": "3SG",
+  "rank": "2SG",
   "displayName": "DARSHAN",
   "sheetName": "DARSHAN",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 1,
-  "displayNoStatus": "3SG DARSHAN"
+  "rankINT": 2,
+  "displayNoStatus": "2SG DARSHAN"
  },
  {
   "rank": "3SG",
