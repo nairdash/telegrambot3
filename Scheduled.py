@@ -118,7 +118,7 @@ def ObtainMergedCells():
         # obtains month of online sheet
         month_in_sheet = None
         for x in range(5, 10):
-            if re.search("[0-9]{1,2}-[A-Z]{3}", ME_df_with_merge.iloc[x, 5].upper()):
+            if re.search("[0-9]{1,2}-[A-Z]{3}", str(ME_df_with_merge.iloc[x, 5]).upper()):
                 month_in_sheet = datetime.datetime.strptime(ME_df_with_merge.iloc[x, 5].split('-')[1].upper(), '%b').month
                 break
         
