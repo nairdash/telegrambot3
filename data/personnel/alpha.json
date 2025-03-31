@@ -44,6 +44,15 @@
   "rankINT": 10,
   "displayNoStatus": "LTA RICHMOND"
  },
+  {
+  "rank": "LTA",
+  "displayName": "KAI WEN",
+  "sheetName": "KAI WEN",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 10,
+  "displayNoStatus": "LTA KAI WEN"
+ },
  {
   "rank": "2LT",
   "displayName": "ZHAO LONG",
@@ -52,15 +61,6 @@
   "nor": "REGULAR",
   "rankINT": 9,
   "displayNoStatus": "2LT ZHAO LONG"
- },
- {
-  "rank": "2LT",
-  "displayName": "KAI WEN",
-  "sheetName": "KAI WEN",
-  "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 9,
-  "displayNoStatus": "2LT KAI WEN"
  },
   {
   "rank": "2LT",
@@ -171,22 +171,40 @@
   "displayNoStatus": "1SG BRYAN LEE"
  },
  {
-  "rank": "3SG",
+  "rank": "2SG",
   "displayName": "BRAYDEN",
   "sheetName": "(RIGG) BRAYDEN",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 1,
-  "displayNoStatus": "3SG BRAYDEN"
+  "rankINT": 2,
+  "displayNoStatus": "2SG BRAYDEN"
  },
  {
-  "rank": "3SG",
+  "rank": "2SG",
   "displayName": "EACHEON",
   "sheetName": "(RIGG) EACHEON",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 1,
-  "displayNoStatus": "3SG EACHEON"
+  "rankINT": 2,
+  "displayNoStatus": "2SG EACHEON"
+ },
+ {
+  "rank": "2SG",
+  "displayName": "DARSHAN",
+  "sheetName": "DARSHAN",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 2,
+  "displayNoStatus": "2SG DARSHAN"
+ },
+ {
+  "rank": "2SG",
+  "displayName": "CHARLES",
+  "sheetName": "CHARLES",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 2,
+  "displayNoStatus": "2SG CHARLES"
  },
  {
   "rank": "3SG",
@@ -214,24 +232,6 @@
   "nor": "NSF",
   "rankINT": 1,
   "displayNoStatus": "3SG KAI LUCAS ANTON"
- },
- {
-  "rank": "2SG",
-  "displayName": "CHARLES",
-  "sheetName": "CHARLES",
-  "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 2,
-  "displayNoStatus": "2SG CHARLES"
- },
- {
-  "rank": "2SG",
-  "displayName": "DARSHAN",
-  "sheetName": "DARSHAN",
-  "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 2,
-  "displayNoStatus": "2SG DARSHAN"
  },
  {
   "rank": "3SG",
