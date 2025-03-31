@@ -189,14 +189,23 @@
   "displayNoStatus": "1SG NISHAN"
  },
  {
-  "rank": "3SG",
+  "rank": "2SG",
   "displayName": "DARREN",
   "sheetName": "(RIGG) DARREN",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 1,
-  "displayNoStatus": "3SG DARREN"
+  "rankINT": 2,
+  "displayNoStatus": "2SG DARREN"
  },
+ {
+    "rank": "2SG",
+    "displayName": "TING XUAN",
+    "sheetName": "TING XUAN",
+    "commSec": "NIL",
+    "nor": "NSF",
+    "rankINT": 2,
+    "displayNoStatus": "2SG TING XUAN"
+   },
  {
   "rank": "3SG",
   "displayName": "NICHOLAS EE",
@@ -232,15 +241,6 @@
     "nor": "NSF",
     "rankINT": 1,
     "displayNoStatus": "3SG YEO HENG"
-   },
-   {
-    "rank": "3SG",
-    "displayName": "TING XUAN",
-    "sheetName": "TING XUAN",
-    "commSec": "NIL",
-    "nor": "NSF",
-    "rankINT": 1,
-    "displayNoStatus": "3SG TING XUAN"
    },
    {
     "rank": "3SG",
