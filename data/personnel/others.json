@@ -189,21 +189,21 @@
   "displayNoStatus": "SSG MALCOLM CHOW"
  },
  {
-  "rank": "2SG",
-  "displayName": "SHAO JUN",
-  "sheetName": "SHAO JUN",
-  "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 2,
-  "displayNoStatus": "2SG SHAO JUN"
- },
- {
   "rank": "3SG",
-  "displayName": "NIGEL",
-  "sheetName": "NIGEL",
+  "displayName": "ZHI XING",
+  "sheetName": "ZHI XING",
   "commSec": "NIL",
   "nor": "NSF",
   "rankINT": 1,
-  "displayNoStatus": "3SG NIGEL"
+  "displayNoStatus": "3SG ZHI XING"
+ },
+ {
+  "rank": "3SG",
+  "displayName": "ARON",
+  "sheetName": "ARON",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 1,
+  "displayNoStatus": "3SG ARON"
  }
 ]
