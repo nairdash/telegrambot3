@@ -45,13 +45,22 @@
   "displayNoStatus": "LTA RYAN"
  },
  {
-  "rank": "2LT",
+  "rank": "LTA",
   "displayName": "JULIAN",
   "sheetName": "JULIAN",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 9,
-  "displayNoStatus": "2LT JULIAN"
+  "rankINT": 10,
+  "displayNoStatus": "LTA JULIAN"
+ },
+ {
+  "rank": "LTA",
+  "displayName": "ZACKER",
+  "sheetName": "ZACKER",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 10,
+  "displayNoStatus": "LTA ZACKER"
  },
  {
   "rank": "2LT",
@@ -61,15 +70,6 @@
   "nor": "NSF",
   "rankINT": 9,
   "displayNoStatus": "2LT LEUVEN"
- },
- {
-  "rank": "2LT",
-  "displayName": "ZACKER",
-  "sheetName": "ZACKER",
-  "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 9,
-  "displayNoStatus": "2LT ZACKER"
  },
  {
   "rank": "2LT",
