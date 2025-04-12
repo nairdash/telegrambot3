@@ -193,7 +193,7 @@
   "displayName": "ERON ANG",
   "sheetName": "ERON ANG",
   "commSec": "NIL",
-  "nor": "NSF",
+  "nor": "REGULAR",
   "rankINT": 0,
   "displayNoStatus": "SCT ERON ANG"
  },
@@ -202,7 +202,7 @@
   "displayName": "POOJA",
   "sheetName": "POOJA",
   "commSec": "NIL",
-  "nor": "NSF",
+  "nor": "REGULAR",
   "rankINT": 0,
   "displayNoStatus": "SCT POOJA"
  },
@@ -211,7 +211,7 @@
   "displayName": "CHEN JUN WEI",
   "sheetName": "CHEN JUN WEI",
   "commSec": "NIL",
-  "nor": "NSF",
+  "nor": "REGULAR",
   "rankINT": 0,
   "displayNoStatus": "SCT CHEN JUN WEI"
  },
