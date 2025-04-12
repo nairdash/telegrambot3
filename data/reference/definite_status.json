@@ -155,10 +155,6 @@
   "displayStatus": "SIC",
   "category": "CSE"
  },
- "CSE": {
-  "displayStatus": "CSE",
-  "category": "CSE"
- },
  "RIGGER": {
   "displayStatus": "RIGGER",
   "category": "CSE"
