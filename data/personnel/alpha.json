@@ -188,6 +188,33 @@
   "rankINT": 2,
   "displayNoStatus": "2SG EACHEON"
  },
+{
+  "rank": "SCT",
+  "displayName": "ERON ANG",
+  "sheetName": "ERON ANG",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 0,
+  "displayNoStatus": "SCT ERON ANG"
+ },
+ {
+  "rank": "SCT",
+  "displayName": "POOJA",
+  "sheetName": "POOJA",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 0,
+  "displayNoStatus": "SCT POOJA"
+ },
+ {
+  "rank": "SCT",
+  "displayName": "CHEN JUN WEI",
+  "sheetName": "CHEN JUN WEI",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 0,
+  "displayNoStatus": "SCT CHEN JUN WEI"
+ },
  {
   "rank": "2SG",
   "displayName": "DARSHAN",
@@ -250,6 +277,68 @@
   "nor": "NSF",
   "rankINT": 1,
   "displayNoStatus": "3SG DERRILL"
+ },
+{
+  "rank": "SCT",
+  "displayName": "CHAN CHI HANG",
+  "sheetName": "CHAN CHI HANG",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 0,
+  "displayNoStatus": "SCT CHAN CHI HANG"
+ },
+ {
+  "rank": "SCT",
+  "displayName": "LEE XUN YI",
+  "sheetName": "LEE XUN YI",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 0,
+  "displayNoStatus": "SCT LEE XUN YI"
+ },
+{
+  "rank": "SCT",
+  "displayName": "JOSHUA SEE TOH",
+  "sheetName": "JOSHUA SEE TOH",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 0,
+  "displayNoStatus": "SCT JOSHUA SEE TOH"
+ },
+{
+  "rank": "SCT",
+  "displayName": "MERVIN ONG",
+  "sheetName": "MERVIN ONG",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 0,
+  "displayNoStatus": "SCT MERVIN ONG"
+ },
+{
+  "rank": "SCT",
+  "displayName": "QUETIN CHIA",
+  "sheetName": "QUETIN CHIA",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 0,
+  "displayNoStatus": "SCT QUETIN CHIA"
+ },
+{
+  "rank": "SCT",
+  "displayName": "SUBASH",
+  "sheetName": "SUBASH",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 0,
+  "displayNoStatus": "SCT SUBASH"
+ },
+ {
+  "rank": "SCT",
+  "displayName": "QUEK LENG SONG",
+  "sheetName": "QUEK LENG SONG",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 0,
+  "displayNoStatus": "SCT QUEK LENG SONG"
  }
-
 ]
