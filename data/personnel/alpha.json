@@ -188,33 +188,6 @@
   "rankINT": 2,
   "displayNoStatus": "2SG EACHEON"
  },
-{
-  "rank": "SCT",
-  "displayName": "ERON ANG",
-  "sheetName": "ERON ANG",
-  "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 0,
-  "displayNoStatus": "SCT ERON ANG"
- },
- {
-  "rank": "SCT",
-  "displayName": "POOJA",
-  "sheetName": "POOJA",
-  "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 0,
-  "displayNoStatus": "SCT POOJA"
- },
- {
-  "rank": "SCT",
-  "displayName": "CHEN JUN WEI",
-  "sheetName": "CHEN JUN WEI",
-  "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 0,
-  "displayNoStatus": "SCT CHEN JUN WEI"
- },
  {
   "rank": "2SG",
   "displayName": "DARSHAN",
@@ -277,6 +250,33 @@
   "nor": "NSF",
   "rankINT": 1,
   "displayNoStatus": "3SG DERRILL"
+ },
+{
+  "rank": "SCT",
+  "displayName": "ERON ANG",
+  "sheetName": "ERON ANG",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 0,
+  "displayNoStatus": "SCT ERON ANG"
+ },
+ {
+  "rank": "SCT",
+  "displayName": "POOJA",
+  "sheetName": "POOJA",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 0,
+  "displayNoStatus": "SCT POOJA"
+ },
+ {
+  "rank": "SCT",
+  "displayName": "CHEN JUN WEI",
+  "sheetName": "CHEN JUN WEI",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 0,
+  "displayNoStatus": "SCT CHEN JUN WEI"
  },
 {
   "rank": "SCT",
