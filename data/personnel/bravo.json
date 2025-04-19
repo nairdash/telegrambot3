@@ -259,5 +259,15 @@
     "nor": "NSF",
     "rankINT": 1,
     "displayNoStatus": "3SG LE KEN"
+   },
+   {
+    "rank": "SCT",
+    "displayName": "MANDELL",
+    "sheetName": "MANDELL",
+    "commSec": "NIL",
+    "nor": "REGULAR",
+    "rankINT": 0,
+    "displayNoStatus": "SCT MANDELL"
    }
+
 ]
