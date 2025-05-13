@@ -18,13 +18,13 @@
   "displayNoStatus": "CPT WEI JIAN"
  },
 {
-  "rank": "LTA",
+  "rank": "CPT",
   "displayName": "BAO YUAN",
   "sheetName": "BAO YUAN",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 10,
-  "displayNoStatus": "LTA BAO YUAN"
+  "rankINT": 11,
+  "displayNoStatus": "CPT BAO YUAN"
  },
  {
   "rank": "LTA",
