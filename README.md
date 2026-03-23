@@ -11,4 +11,3 @@ The stuff that might break:
 1. Spreadsheet ID
 2. I think thats all 😕
 
-![brain damage](https://github.com/morpheuschoo/telegram-bot/assets/113279209/21f8cf97-7876-4956-a78a-73d16c991121)
